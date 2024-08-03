@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <g style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;" transform="scale(1, 1) translate(0, 0)">
+    <path d="M 486.0,196.0 L 574.0,240.0 L 609.0,282.0"/>
+    <path d="M 354.0,385.0 L 383.0,398.0 L 459.0,395.0 L 701.0,349.0 L 755.0,341.0 L 789.0,343.0"/>
+    <path d="M 284.0,369.0 L 310.0,389.0 L 324.0,415.0 L 317.0,593.0 L 303.0,687.0 L 276.0,788.0 L 234.0,894.0 L 193.0,966.0 L 153.0,1016.0"/>
+    <path d="M 134.0,466.0 L 204.0,530.0 L 217.0,564.0"/>
+    <path d="M 68.0,741.0 L 121.0,747.0 L 261.0,668.0 L 271.0,655.0"/>
+  </g>
+</svg>
